@@ -1,6 +1,6 @@
-SECURITY_FIRST
+CYBERSECURITY
 Vigenère Decode, key is dirt
-QUERTY keypad sub right by 1
+QUERTY keypad sub left by 1
 iase 64 decode
 binary byte length 8
 
