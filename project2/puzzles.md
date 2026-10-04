@@ -1,7 +1,7 @@
-Cryptographic algorithms are the building blocks of security.
+SECURITY_FIRST
 Vigenère Decode, key is dirt
-QUERTY keypad sub
-base 64 decode
+QUERTY keypad sub right by 1
+iase 64 decode
 binary byte length 8
 
 ALWAYS CHECK YOUR CIPHERTEXT BEFORE SUBMITTING
