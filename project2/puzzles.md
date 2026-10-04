@@ -1,7 +1,7 @@
-CYBERSECURITY
+password123
 Vigenère Decode, key is dirt
-QUERTY keypad sub left by 1
-iase 64 decode
+QUERTY keypad sub
+base 64 decode
 binary byte length 8
 
 ALWAYS CHECK YOUR CIPHERTEXT BEFORE SUBMITTING
