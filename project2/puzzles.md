@@ -1,6 +1,6 @@
-password123
+CYBERSECURITY_IS_COOL
 Vigenère Decode, key is dirt
-QUERTY keypad sub
+QUERTY keypad shift
 base 64 decode
 binary byte length 8
 
